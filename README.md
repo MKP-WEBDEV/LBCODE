@@ -1,2 +1,2 @@
 # LBCODE
-Used by MKP-WEBDEV &amp; LB CODE.
+This repository is used by MKP-WEBDEV &amp; LB CODE.
